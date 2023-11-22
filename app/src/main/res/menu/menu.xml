@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newToOLd"
+        android:title="@string/new_to_old">
+    </item>
+
+    <item
+        android:id="@+id/oldToNew"
+        android:title="@string/old_to_new">
+    </item>
+
+</menu>

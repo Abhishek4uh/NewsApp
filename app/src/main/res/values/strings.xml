@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">NewsApp</string>
+
+    <string name="news_title">Is this what an early-stage slowdown looks like?</string>
+
+    <string name="author">Alex Wilhelm</string>
+
+    <string name="published_date">2020-02-10T17:06:42Z</string>
+
+    <string name="news_description">Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. Today we’re exploring some fascinating data from Silicon Valley Bank markets report for Q1 2020. We’re digging into two charts that deal with</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="old_to_new">Old to New</string>
+
+    <string name="new_to_old">New to Old</string>
+
+</resources>
